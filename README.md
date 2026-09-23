@@ -15,9 +15,10 @@ Built an application (Node.js, AWS, Alexa) aimed at supporting pregnant patients
 
 Developed a website using TypeScript, React, TanStack Router, and Vite, deployed on Cloudflare Workers.
 
-##### 🥐 French Flashcards App
+##### 🥐 [Quickcards](https://github.com/crlucenap/flashcards_fr) — French Flashcards App
 
 Built a flashcards application to support French language learning.
+
 <!--
 **crlucenap/crlucenap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
